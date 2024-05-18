@@ -1,0 +1,14 @@
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\bin\Debug\net6.0\Банкомат-черт.exe
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\bin\Debug\net6.0\Банкомат-черт.deps.json
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\bin\Debug\net6.0\Банкомат-черт.runtimeconfig.json
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\bin\Debug\net6.0\Банкомат-черт.dll
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\bin\Debug\net6.0\Банкомат-черт.pdb
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.AssemblyInfoInputs.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.AssemblyInfo.cs
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.csproj.CoreCompileInputs.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.dll
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\refint\Банкомат-черт.dll
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.pdb
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\Банкомат-черт.genruntimeconfig.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\Банкомат-черт\obj\Debug\net6.0\ref\Банкомат-черт.dll

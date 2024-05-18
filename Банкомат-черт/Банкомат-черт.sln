@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Банкомат-черт", "Банкомат-черт.csproj", "{8FADE396-FC9D-4751-B752-9D56DA67142C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FADE396-FC9D-4751-B752-9D56DA67142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FADE396-FC9D-4751-B752-9D56DA67142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FADE396-FC9D-4751-B752-9D56DA67142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FADE396-FC9D-4751-B752-9D56DA67142C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F0FB33-0CED-4513-BA7B-B97BEB810109}
+	EndGlobalSection
+EndGlobal
