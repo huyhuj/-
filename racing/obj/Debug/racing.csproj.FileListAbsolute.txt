@@ -1,0 +1,15 @@
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\bin\Debug\racing.exe.config
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\bin\Debug\racing.exe
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\bin\Debug\racing.pdb
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.csproj.AssemblyReference.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\MainWindow.g.cs
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\App.g.cs
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing_MarkupCompile.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing_MarkupCompile.lref
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\MainWindow.baml
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.g.resources
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.Properties.Resources.resources
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.csproj.GenerateResource.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.csproj.CoreCompileInputs.cache
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.exe
+C:\Users\yriko\OneDrive\Рабочий стол\Cherty\2\racing\obj\Debug\racing.pdb
